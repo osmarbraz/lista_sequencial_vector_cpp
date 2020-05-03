@@ -1,5 +1,11 @@
 # Implementação Lista sequencial utilizando vector de forma estruturada em C++.
-Operações implementadas:<br>
+
+## Características:<br>
+- Lista sequencial em vector<br>
+- Utiliza subrotinas para modularizar as operações<br>
+- Os dados armazenados são do tipo inteiro<br>
+
+## Operações implementadas:<br>
 - 1 - Listar Nós<br>
 - 2 - Inserir Nó no início<br>
 - 3 - Inserir Nó em uma posição especifica<br>
